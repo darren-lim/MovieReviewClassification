@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignoring the directories to review data because they're very large,
+# just download on your own local computer in main MovieReviewClassification
+# folder
+aclImdb/
+movie-review/
+
 # C extensions
 *.so
 
